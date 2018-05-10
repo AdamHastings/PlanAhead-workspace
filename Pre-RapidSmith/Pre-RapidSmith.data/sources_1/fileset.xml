@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DARoots Version="1" Minor="26">
+  <FileSet Name="sources_1" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_clock_generator_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_clock_generator_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_counter_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_counter_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525981575"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_counter_1_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_counter_1_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525981575"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_counter_2_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_counter_2_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525981575"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_counter_3_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_counter_3_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525981575"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_counter_4_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_counter_4_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525981575"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_counter_5_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_counter_5_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525981575"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_counter_6_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_counter_6_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525981575"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_counter_7_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_counter_7_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525981575"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_dlmb_cntlr_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_dlmb_cntlr_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_dlmb_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_dlmb_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_dut_control_core_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_dut_control_core_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ilmb_cntlr_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ilmb_cntlr_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ilmb_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ilmb_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_lmb_bram_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_lmb_bram_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_mb_plb_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_mb_plb_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_mdm_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_mdm_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_microblaze_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_microblaze_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_orgate_1_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_orgate_1_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_proc_sys_reset_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_proc_sys_reset_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ring_osc_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ring_osc_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ring_osc_1_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ring_osc_1_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ring_osc_2_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ring_osc_2_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ring_osc_3_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ring_osc_3_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ring_osc_4_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ring_osc_4_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ring_osc_5_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ring_osc_5_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ring_osc_6_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ring_osc_6_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_ring_osc_7_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_ring_osc_7_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525994075"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_rs232_uart_1_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_rs232_uart_1_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_xps_intc_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_xps_intc_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/implementation/system_xps_timer_0_wrapper.ngc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../XPS-workspace/hw/implementation/system_xps_timer_0_wrapper.ngc"/>
+        <Attr Name="ImportTime" Val="1525991672"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="GateLvl"/>
+      <Option Name="TopModule" Val="system"/>
+    </Config>
+  </FileSet>
+</DARoots>
